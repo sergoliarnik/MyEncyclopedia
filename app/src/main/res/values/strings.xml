@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Encyclopedia</string>
+    <string name="menu_favourite">Favourite</string>
+
+    <string name="mainActivity_statusNotLoggedIn">You are not logged in</string>
+    <string name="mainActivity_logInButton">Log In</string>
+    <string name="mainActivity_logOutButton">Log Out</string>
+    <string name="articleImagePath">/sdcard/EncyclopediaMedia/articles/</string>
+</resources>

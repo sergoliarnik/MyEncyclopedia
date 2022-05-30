@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animals_array">
+        <item>Which mammal is known to have the most powerful bite in the world?</item>
+        <item>What object does a male penguin often gift to a female penguin to win her over?</item>
+    </string-array>
+    <string-array name="plants_array">
+        <item>There are 3 main parts in a plant: the leaves, roots, and …</item>
+        <item>Which of the following is NOT a way in which plant seeds can be spread out?</item>
+    </string-array>
+    <string-array name="planets_array">
+        <item>Which is the smallest planet within our solar system?</item>
+        <item>Which is the second smallest planet within our solar system?</item>
+    </string-array>
+    <string-array name="starts_array">
+        <item>What does nuclear fission have to do with the birth of stars?</item>
+        <item>What gases are needed to produce the new star? Why do you need these gases? What are their functions?</item>
+    </string-array>
+    <string-array name="health_array">
+        <item>Could my cell phone kill me?</item>
+        <item>Will vitamin D save my life? Should I really be taking four times the recommended daily dose?</item>
+    </string-array>
+    <string-array name="history_array">
+        <item>What city was the first capital of the United States?</item>
+        <item>Who first discovered America?</item>
+    </string-array>
+</resources>

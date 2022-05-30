@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_item_encyclopedia"
+        android:title="Encyclopedia" />
+    <item
+        android:id="@+id/menu_item_addNewTopic"
+        android:title="New Topic" />
+    <item
+        android:id="@+id/menu_item_checkUsers"
+        android:title="Check users" />
+
+    <item
+        android:id="@+id/menu_item_logOut"
+        android:title="Log out" />
+
+</menu>
